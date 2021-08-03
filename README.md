@@ -10,6 +10,7 @@ o Create a loop that runs as many time as the user states.
  Create an animal with those values.
  Add that animal to the map
  Output to terminal the zoo.
+
  Ask the user to add a new animal, take in the values, and try to add that animal to the list.
  State whether or not the add was successful or not.
  Output the zoo to terminal again.
