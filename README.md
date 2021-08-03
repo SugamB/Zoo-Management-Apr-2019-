@@ -27,3 +27,5 @@ say whether or not that animal is in the zoo.
 
 Window and Main Menu
 Turn the main menu dialog window into a window with a menu bar. The window does not need to have any other content besides the menu bar. The menu bar must have a “File” menu containing load file, save file, and exit, an “Edit” menu containing functions to add/remove animals, change the properties of animals (health, age), and change the zoo capacity and exit, and a “View” menu containing all operations that display animals. All other operations can still be in “pop up” dialog windows.
+
+Logo used of https://koelnerzoo.de/
